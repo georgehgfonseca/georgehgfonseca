@@ -6,45 +6,45 @@
 </p>
 
 <p align="left">
-  &#8227; Programming:
-  <img align="center" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="20" height="20"/>&nbsp;•
-  <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" height="20"/>&nbsp;•
-  <img align="center" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20" height="20"/>&nbsp;•
-  <img align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20"/>&nbsp;•
+  • Programming:&nbsp;
+  <img align="center" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="cpp" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="20" height="20"/>&nbsp;
   
 </p>
 
 <p align="left">
-  &#8227; Libraries & Tools: 
-  <img align="center" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20" height="20"/>&nbsp;•
-  <img align="center" alt="mui" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" width="20" height="20"/>&nbsp;•
-  <img align="center" alt="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20" height="20"/>&nbsp;•
-  <img align="center" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20" height="20"/>&nbsp;•
-  <img align="center" alt="android" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="20" height="20"/>&nbsp;•
-  <img align="center" alt="firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="20" height="20"/>&nbsp;•
-  <img align="center" alt="node" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20" height="20"/>&nbsp;•
+  • Libraries & Tools:&nbsp;
+  <img align="center" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="mui" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="android" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="node" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="googleCloud" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="20" height="20"/>&nbsp;  
 </p>
 
 <p align="left">
-  &#8227; Main projects: <strong><a href="https://optables.vercel.app">Optables</a> • <a href="https://play.google.com/store/apps/details?id=br.ufop.george.pernetas">Pernetas</a></strong>
+  • Main projects:&nbsp; <strong><a href="https://optables.vercel.app">Optables</a> &#8259; <a href="https://play.google.com/store/apps/details?id=br.ufop.george.pernetas">Pernetas</a></strong>
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:george.fons@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:george.fons@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/georgefonseca/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/georgefonseca/" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5531988189164" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531988189164"/></a>
 
-  <a href="#" alt="YouTube">
+  <a href="https://www.youtube.com/channel/UCDh-b5QNEk3VqpeLBVuDKWQ" alt="YouTube">
   <img src="https://img.shields.io/badge/-YouTube-FE0000?style=flat-square&labelColor=FE0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCDh-b5QNEk3VqpeLBVuDKWQ"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/fonseca.george/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/fonseca.george/"/></a>
 </p>  
 
