@@ -3,6 +3,8 @@
   Hi there! I'm currently working as <a href="http://professor.ufop.br/george/">Associate Professor</a> at <a href="https://ufop.br/">Ufop</a> lecturing and researching Software Development and Computational Intelligence.<br>
 </p>
 
+---
+
 <p align="left">
   • Programming:&nbsp;
   <img align="center" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="20" height="20"/>&nbsp;&#8259;
@@ -29,7 +31,9 @@
   • Main projects:&nbsp; <strong><a href="https://optables.vercel.app">Optables</a> &#8259; <a href="https://play.google.com/store/apps/details?id=br.ufop.george.pernetas">Pernetas</a></strong>
 </p>
 
-<p align="left">
+---
+
+<p align="center">
   <a href="mailto:george.fons@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:george.fons@gmail.com" /></a>
 
@@ -44,11 +48,15 @@
 
   <a href="https://www.instagram.com/fonseca.george/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/fonseca.george/"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=georgehgfonseca&style=flat-square&color=blue" alt="">
 </p>  
 
+<p align="center">
 <a href="https://github.com/georgehgfonseca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgehgfonseca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgehgfonseca&layout=compact&langs_count=7&theme=dark"/>
+</p>  
 </div>
 
 <!--
