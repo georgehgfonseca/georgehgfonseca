@@ -1,6 +1,4 @@
 ### 
-<img src="http://professor.ufop.br/sites/default/files/george/files/georgeavatar.jpeg" min-width="150px" max-width="150px" width="150px" align="left" alt="George Avatar">
-
 <p align="left"> 
   Hi there! I'm currently working as <a href="http://professor.ufop.br/george/">Associate Professor</a> at <a href="https://ufop.br/">Ufop</a> lecturing <br> and researching Software Development and Computational Intelligence.<br>
 </p>
@@ -54,6 +52,8 @@
 </div>
 
 <!--
+<img src="http://professor.ufop.br/sites/default/files/george/files/georgeavatar.jpeg" min-width="150px" max-width="150px" width="150px" align="left" alt="George Avatar">
+
   <a href="#" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
