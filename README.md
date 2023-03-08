@@ -1,6 +1,6 @@
 ### 
 <p align="left"> 
-  Hi there! I'm currently working as <a href="http://professor.ufop.br/george/">Associate Professor</a> at <a href="https://ufop.br/">Ufop</a> lecturing and researching Software Development and Computational Intelligence.<br>
+  Hi there! I'm currently working as <a href="http://professor.ufop.br/george/">Associate Professor</a> at <a href="https://ufop.br/">Ufop</a> lecturing and researching Software Development and Artificial Intelligence.<br>
 </p>
 
 ---
