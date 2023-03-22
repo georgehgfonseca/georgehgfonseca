@@ -18,17 +18,18 @@
 <p align="left">
   • Libraries & Tools:&nbsp;
   <img align="center" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="node" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="mui" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20" height="20"/>&nbsp;&#8259;
-  <img align="center" alt="android" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="20" height="20"/>&nbsp;&#8259;
-  <img align="center" alt="node" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="sql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="20" height="20"/>&nbsp;
+  <img align="center" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="googleCloud" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="20" height="20"/>&nbsp;  
 </p>
 
 <p align="left">
-  • Main projects:&nbsp; <strong><a href="https://optables.vercel.app">Optables</a> &#8259; <a href="https://play.google.com/store/apps/details?id=br.ufop.george.pernetas">Pernetas</a></strong>
+  • Main projects:&nbsp; <strong><a href="https://optables.vercel.app">Optables</a> &#8259; <a href="https://play.google.com/store/apps/details?id=com.mpmg.trena">Trena</a> &#8259; <a href="https://play.google.com/store/apps/details?id=br.ufop.george.pernetas">Pernetas</a></strong>
 </p>
 
 ---
@@ -58,23 +59,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgehgfonseca&layout=compact&langs_count=7&theme=dark"/>
 </p>  
 </div>
-
-<!--
-<img src="http://professor.ufop.br/sites/default/files/george/files/georgeavatar.jpeg" min-width="150px" max-width="150px" width="150px" align="left" alt="George Avatar">
-
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-**georgehgfonseca/georgehgfonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
