@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">
-  • Main projects:&nbsp; <strong><a href="https://optables.com">Optables</a> &#8259; <a href="https://play.google.com/store/apps/details?id=com.mpmg.trena">Trena</a> &#8259; <a href="https://play.google.com/store/apps/details?id=br.ufop.george.pernetas">Pernetas</a></strong>
+  • Main projects:&nbsp; <strong><a href="https://tiza.app">Tiza.app</a> &#8259; <a href="https://play.google.com/store/apps/details?id=com.mpmg.trena">Trena</a> &#8259; <a href="https://play.google.com/store/apps/details?id=br.ufop.george.pernetas">Pernetas</a></strong>
 </p>
 
 ---
